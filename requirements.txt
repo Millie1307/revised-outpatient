@@ -7,3 +7,4 @@ openpyxl
 Pillow
 opencv-python-headless
 pytesseract
+xlrd
